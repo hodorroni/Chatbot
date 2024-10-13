@@ -6,7 +6,7 @@
 3. choose Bot-Controller
 ## Getting movies by name
 ```
- GET /bot/imdb
+GET /bot/imdb
 In this REST API, you can enter a movie name, and it will return all the movies found with that name from the IMDb website.
 ```
 ## Getting jokes by name
